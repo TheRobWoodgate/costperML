@@ -1,74 +1,74 @@
 ﻿Region,Scheme,Year,Sum of Cost ($m),Sum of WATERDELIVERED (ML),$/ML,Band
 South,Upper Condamine Supply,2022,-4.35441209,4676.134,-931.1991679,RED
 South,Upper Condamine Supply,2020,-2.762903692,5333.795,-517.9996029,RED
-Central,Nogoa Mackenzie,2021,-8.36096614,96693.12,-86.46909046,RED
-South,Macintyre Rock,2019,-0.05815776,1048.708,-55.45658086,RED
-North,Pioneer River,2022,-0.91937798,18115.243,-50.75162282,RED
-Brisbane,Non-Scheme,2019,51.88890965,0,0,RED
-Brisbane,Non-Scheme,2020,103.4359829,0,0,RED
-Brisbane,Non-Scheme,2021,30.54526424,0,0,RED
-Brisbane,Non-Scheme,2022,95.13993739,0,0,RED
-Brisbane,Non-Scheme,2023,94.10356362,0,0,RED
-Burnett and Lower Mary,Burnett Water PL,2019,4.35018209,0,0,RED
-Burnett and Lower Mary,Burnett Water PL,2020,55.29522743,0,0,RED
-Burnett and Lower Mary,Burnett Water PL,2021,39.77437913,0,0,RED
-Burnett and Lower Mary,Burnett Water PL,2022,21.64504259,0,0,RED
-Burnett and Lower Mary,Burnett Water PL,2023,19.84163717,0,0,RED
-Burnett and Lower Mary,Burnett Water PL (Subsidiary),2019,2.91019341,0,0,RED
-Burnett and Lower Mary,Burnett Water PL (Subsidiary),2020,-16.87061628,0,0,RED
-Burnett and Lower Mary,Burnett Water PL (Subsidiary),2021,45.7281498,0,0,RED
-Burnett and Lower Mary,Burnett Water PL (Subsidiary),2022,0.68765091,0,0,RED
-Burnett and Lower Mary,Burnett Water PL (Subsidiary),2023,0.65232069,0,0,RED
-Burnett and Lower Mary,Non-Scheme,2019,3.22106632,0,0,RED
-Burnett and Lower Mary,Non-Scheme,2020,6.93669153,0,0,RED
-Burnett and Lower Mary,Non-Scheme,2021,6.69733322,0,0,RED
-Burnett and Lower Mary,Non-Scheme,2022,8.09301168,0,0,RED
-Burnett and Lower Mary,Non-Scheme,2023,7.48000511,0,0,RED
-Central,[BLANK],2019,0,3625.679,0,RED
-Central,[BLANK],2020,0,5334.82,0,RED
-Central,[BLANK],2021,0,5770.17,0,RED
-Central,[BLANK],2022,0,4534.28,0,RED
-Central,Eungella Water PL (External),2019,1.07747191,0,0,RED
-Central,Eungella Water PL (External),2020,1.52774492,0,0,RED
-Central,Eungella Water PL (External),2021,0.88774071,0,0,RED
-Central,Eungella Water PL (External),2022,0.73529056,0,0,RED
-Central,Eungella Water PL (External),2023,0.76140693,0,0,RED
-Central,Eungella Water PL (Subsidiary),2019,5.68873147,0,0,RED
-Central,Eungella Water PL (Subsidiary),2020,7.77925115,0,0,RED
-Central,Eungella Water PL (Subsidiary),2021,6.41371477,0,0,RED
-Central,Eungella Water PL (Subsidiary),2022,6.52819101,0,0,RED
-Central,Eungella Water PL (Subsidiary),2023,5.17593813,0,0,RED
-Central,Non-Scheme,2019,16.07582234,0,0,RED
-Central,Non-Scheme,2020,65.12124092,0,0,RED
-Central,Non-Scheme,2021,137.9140786,0,0,RED
-Central,Non-Scheme,2022,27.53301298,0,0,RED
-Central,Non-Scheme,2023,204.1595896,0,0,RED
-North,[BLANK],2023,0.05654475,0,0,RED
-North,Non-Scheme,2019,5.0328978,0,0,RED
-North,Non-Scheme,2020,10.88127043,0,0,RED
-North,Non-Scheme,2021,9.54376787,0,0,RED
-North,Non-Scheme,2022,11.23931547,0,0,RED
-North,Non-Scheme,2023,9.95426262,0,0,RED
-North,North-West Pipeline PL (External),2019,0.63462398,0,0,RED
-North,North-West Pipeline PL (External),2020,0.95887652,0,0,RED
-North,North-West Pipeline PL (External),2021,1.10965885,0,0,RED
-North,North-West Pipeline PL (External),2022,1.12900418,0,0,RED
-North,North-West Pipeline PL (External),2023,0.93955345,0,0,RED
-North,North-West Queensland Water PL (Subsidiary),2019,4.05406566,0,0,RED
-North,North-West Queensland Water PL (Subsidiary),2020,6.3190621,0,0,RED
-North,North-West Queensland Water PL (Subsidiary),2021,4.60541268,0,0,RED
-North,North-West Queensland Water PL (Subsidiary),2022,4.92925426,0,0,RED
-North,North-West Queensland Water PL (Subsidiary),2023,3.7813747,0,0,RED
-South,Maranoa River,2019,0.00321088,0,0,RED
-South,Maranoa River,2020,0.00704178,0,0,RED
-South,Maranoa River,2021,0.02134432,0,0,RED
-South,Maranoa River,2022,0.00402542,0,0,RED
-South,Maranoa River,2023,0.00592879,0,0,RED
-South,Non-Scheme,2019,2.14520743,0,0,RED
-South,Non-Scheme,2020,4.04750512,0,0,RED
-South,Non-Scheme,2021,3.97000052,0,0,RED
-South,Non-Scheme,2022,3.53273045,0,0,RED
-South,Non-Scheme,2023,3.23183795,0,0,RED
+Central,Nogoa Mackenzie,2021,-8.36096614,96693.12,-86.46909046,GREEN
+South,Macintyre Rock,2019,-0.05815776,1048.708,-55.45658086,GREEN
+North,Pioneer River,2022,-0.91937798,18115.243,-50.75162282,GREEN
+Brisbane,Non-Scheme,2019,51.88890965,0,0,GREEN
+Brisbane,Non-Scheme,2020,103.4359829,0,0,GREEN
+Brisbane,Non-Scheme,2021,30.54526424,0,0,GREEN
+Brisbane,Non-Scheme,2022,95.13993739,0,0,GREEN
+Brisbane,Non-Scheme,2023,94.10356362,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL,2019,4.35018209,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL,2020,55.29522743,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL,2021,39.77437913,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL,2022,21.64504259,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL,2023,19.84163717,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL (Subsidiary),2019,2.91019341,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL (Subsidiary),2020,-16.87061628,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL (Subsidiary),2021,45.7281498,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL (Subsidiary),2022,0.68765091,0,0,GREEN
+Burnett and Lower Mary,Burnett Water PL (Subsidiary),2023,0.65232069,0,0,GREEN
+Burnett and Lower Mary,Non-Scheme,2019,3.22106632,0,0,GREEN
+Burnett and Lower Mary,Non-Scheme,2020,6.93669153,0,0,GREEN
+Burnett and Lower Mary,Non-Scheme,2021,6.69733322,0,0,GREEN
+Burnett and Lower Mary,Non-Scheme,2022,8.09301168,0,0,GREEN
+Burnett and Lower Mary,Non-Scheme,2023,7.48000511,0,0,GREEN
+Central,[BLANK],2019,0,3625.679,0,GREEN
+Central,[BLANK],2020,0,5334.82,0,GREEN
+Central,[BLANK],2021,0,5770.17,0,GREEN
+Central,[BLANK],2022,0,4534.28,0,GREEN
+Central,Eungella Water PL (External),2019,1.07747191,0,0,GREEN
+Central,Eungella Water PL (External),2020,1.52774492,0,0,GREEN
+Central,Eungella Water PL (External),2021,0.88774071,0,0,GREEN
+Central,Eungella Water PL (External),2022,0.73529056,0,0,GREEN
+Central,Eungella Water PL (External),2023,0.76140693,0,0,GREEN
+Central,Eungella Water PL (Subsidiary),2019,5.68873147,0,0,GREEN
+Central,Eungella Water PL (Subsidiary),2020,7.77925115,0,0,GREEN
+Central,Eungella Water PL (Subsidiary),2021,6.41371477,0,0,GREEN
+Central,Eungella Water PL (Subsidiary),2022,6.52819101,0,0,GREEN
+Central,Eungella Water PL (Subsidiary),2023,5.17593813,0,0,GREEN
+Central,Non-Scheme,2019,16.07582234,0,0,GREEN
+Central,Non-Scheme,2020,65.12124092,0,0,GREEN
+Central,Non-Scheme,2021,137.9140786,0,0,GREEN
+Central,Non-Scheme,2022,27.53301298,0,0,GREEN
+Central,Non-Scheme,2023,204.1595896,0,0,GREEN
+North,[BLANK],2023,0.05654475,0,0,GREEN
+North,Non-Scheme,2019,5.0328978,0,0,GREEN
+North,Non-Scheme,2020,10.88127043,0,0,GREEN
+North,Non-Scheme,2021,9.54376787,0,0,GREEN
+North,Non-Scheme,2022,11.23931547,0,0,GREEN
+North,Non-Scheme,2023,9.95426262,0,0,GREEN
+North,North-West Pipeline PL (External),2019,0.63462398,0,0,GREEN
+North,North-West Pipeline PL (External),2020,0.95887652,0,0,GREEN
+North,North-West Pipeline PL (External),2021,1.10965885,0,0,GREEN
+North,North-West Pipeline PL (External),2022,1.12900418,0,0,GREEN
+North,North-West Pipeline PL (External),2023,0.93955345,0,0,GREEN
+North,North-West Queensland Water PL (Subsidiary),2019,4.05406566,0,0,GREEN
+North,North-West Queensland Water PL (Subsidiary),2020,6.3190621,0,0,GREEN
+North,North-West Queensland Water PL (Subsidiary),2021,4.60541268,0,0,GREEN
+North,North-West Queensland Water PL (Subsidiary),2022,4.92925426,0,0,GREEN
+North,North-West Queensland Water PL (Subsidiary),2023,3.7813747,0,0,GREEN
+South,Maranoa River,2019,0.00321088,0,0,GREEN
+South,Maranoa River,2020,0.00704178,0,0,GREEN
+South,Maranoa River,2021,0.02134432,0,0,GREEN
+South,Maranoa River,2022,0.00402542,0,0,GREEN
+South,Maranoa River,2023,0.00592879,0,0,GREEN
+South,Non-Scheme,2019,2.14520743,0,0,GREEN
+South,Non-Scheme,2020,4.04750512,0,0,GREEN
+South,Non-Scheme,2021,3.97000052,0,0,GREEN
+South,Non-Scheme,2022,3.53273045,0,0,GREEN
+South,Non-Scheme,2023,3.23183795,0,0,GREEN
 North,Pioneer River,2019,0.00779605,18104.272,0.430619359,GREEN
 South,Cunnamulla,2020,0.00194279,1180.954,1.64510218,GREEN
 South,Cunnamulla,2019,0.00158135,701.668,2.253701181,GREEN
@@ -115,70 +115,70 @@ North,Burdekin Haughton,2021,29.1738311,422468.064,69.0557076,GREEN
 Burnett and Lower Mary,Three Moon Creek,2020,0.56648497,8029.427,70.55110782,GREEN
 North,Mareeba Dimbulah,2023,4.89982107,68848.455,71.16820661,GREEN
 Burnett and Lower Mary,Three Moon Creek,2023,0.30674463,4284.74,71.5900218,GREEN
-North,Julius,2019,0.27410763,3715.536,73.77337482,YELLOW
-Central,Eton,2023,0.80547424,10689.754,75.35011938,YELLOW
-Burnett and Lower Mary,Bundaberg,2019,7.6483481,100689.885,75.95944816,YELLOW
-North,Julius,2023,0.38613785,4564.908,84.58830934,YELLOW
-Central,Lower Fitzroy,2021,1.41363207,16124.514,87.66974744,YELLOW
-Central,Lower Fitzroy,2020,1.54694664,17420.493,88.80039388,YELLOW
-Central,Eton,2020,2.1609206,22196.765,97.35295211,YELLOW
-Burnett and Lower Mary,Bundaberg,2021,13.47748091,136642.802,98.63293721,YELLOW
-Central,Lower Fitzroy,2019,0.89745481,9090.757,98.72168071,YELLOW
-Central,Eton,2022,1.49734275,15166.944,98.72409036,YELLOW
-Central,Nogoa Mackenzie,2022,10.61131655,106341.39,99.78538507,YELLOW
-North,Julius,2022,0.43102655,3732.006,115.4946026,YELLOW
-Central,Lower Fitzroy,2022,2.15591245,18564.803,116.1290238,YELLOW
-South,St George,2020,7.51930806,63239.633,118.9018295,YELLOW
-Burnett and Lower Mary,Bundaberg,2023,10.78435445,89002.754,121.1687725,YELLOW
-Burnett and Lower Mary,Three Moon Creek,2022,0.48063019,3731.637,128.7987524,YELLOW
-North,Mareeba Dimbulah,2020,16.19864967,116089.654,139.5356874,YELLOW
-North,Proserpine River,2023,0.47301005,3308.833,142.9537393,YELLOW
-North,Julius,2021,0.82195455,5605.05,146.6453555,YELLOW
-Burnett and Lower Mary,Bundaberg,2022,9.9817873,65031.472,153.4916402,YELLOW
-South,Macintyre Rock,2020,0.68182282,4419.967,154.2597083,YELLOW
-South,Border Rivers,2019,0.13065871,839.595,155.6211149,YELLOW
-Central,Callide Valley,2020,2.18390901,13306.728,164.1206621,YELLOW
-North,Bowen Broken,2019,1.835523,10961.47,167.4522669,RED
-North,Bowen Broken,2020,3.66212984,21325.771,171.7232094,RED
-South,Border Rivers,2021,0.67753103,3922.475,172.7304903,RED
-Central,Nogoa Mackenzie,2019,11.03600866,61488.266,179.4815398,RED
-North,Bowen Broken,2021,3.38318902,17890.427,189.106108,RED
-South,Upper Condamine Supply,2019,0.15079051,757.365,199.0988625,RED
-North,Bowen Broken,2022,3.56868257,16331.439,218.516113,RED
-North,Pioneer River,2021,3.98611134,17984.581,221.6404897,RED
-South,Macintyre Rock,2023,3.04500009,13421.889,226.8682218,RED
-Burnett and Lower Mary,Barker Barambah,2022,0.59523058,2562.468,232.2880052,RED
-South,Border Rivers,2020,0.37254359,1577.596,236.1463835,RED
-Central,Callide Valley,2022,2.46454827,10312.344,238.9901142,RED
-Central,Lower Fitzroy,2023,2.75120381,11486.129,239.5240215,RED
-Central,Callide Valley,2023,2.98803587,12316.821,242.597978,RED
-North,Bowen Broken,2023,1.90610755,7202.552,264.6433584,RED
-North,Burdekin Haughton,2023,57.46874625,217043.193,264.7802286,RED
-Central,Dawson Valley,2023,12.29021973,43664.293,281.4707141,RED
-Burnett and Lower Mary,Boyne River & Tarong,2019,2.87755848,10053.187,286.2334581,RED
-South,Upper Condamine Supply,2023,6.067593782,19524.855,310.7625528,RED
-Central,Dawson Valley,2019,7.96094099,25151.098,316.5245903,RED
-Central,Dawson Valley,2021,16.12475061,46832.569,344.3063439,RED
-Burnett and Lower Mary,Boyne River & Tarong,2022,9.20373402,24674.508,373.0057767,RED
-North,Mareeba Dimbulah,2022,35.41201496,93805.13,377.5061658,RED
-Central,Dawson Valley,2020,16.03606871,35901.524,446.6681891,RED
-Central,Awoonga Callide Pipeline,2021,7.56992388,15986.669,473.5147691,RED
-Central,Awoonga Callide Pipeline,2020,9.71745463,19711.523,492.9834508,RED
-Central,Awoonga Callide Pipeline,2019,4.95255078,10014.257,494.5499981,RED
-Burnett and Lower Mary,Lower Mary River,2023,1.87332937,3512.136,533.3874799,RED
-Central,Dawson Valley,2022,16.05974199,25990.997,617.8963427,RED
-South,Cunnamulla,2023,0.48309487,778.44,620.5935846,RED
-South,Macintyre Rock,2021,2.52537993,3958.687,637.9337215,RED
-South,Macintyre Rock,2022,2.54703995,3804.51,669.4791051,RED
-Central,Callide Valley,2021,7.20571863,9764.37,737.9604245,RED
-Central,Awoonga Callide Pipeline,2022,6.58762102,7900.313,833.8430414,RED
-Burnett and Lower Mary,Boyne River & Tarong,2020,11.59298228,13238.24,875.7193011,RED
-Burnett and Lower Mary,Barker Barambah,2021,3.86739458,4216.73,917.1548996,RED
-Burnett and Lower Mary,Barker Barambah,2019,0.26605828,265.979,1000.298069,RED
-Burnett and Lower Mary,Boyne River & Tarong,2023,13.92452247,13870.723,1003.878635,RED
-South,Upper Condamine Supply,2021,3.93279795,3726.776,1055.281549,RED
-Burnett and Lower Mary,Boyne River & Tarong,2021,9.50747273,8720.325,1090.265871,RED
-South,Chinchilla Weir,2020,3.20483335,2696.907,1188.33662,RED
+North,Julius,2019,0.27410763,3715.536,73.77337482,GREEN
+Central,Eton,2023,0.80547424,10689.754,75.35011938,GREEN
+Burnett and Lower Mary,Bundaberg,2019,7.6483481,100689.885,75.95944816,GREEN
+North,Julius,2023,0.38613785,4564.908,84.58830934,GREEN
+Central,Lower Fitzroy,2021,1.41363207,16124.514,87.66974744,GREEN
+Central,Lower Fitzroy,2020,1.54694664,17420.493,88.80039388,GREEN
+Central,Eton,2020,2.1609206,22196.765,97.35295211,GREEN
+Burnett and Lower Mary,Bundaberg,2021,13.47748091,136642.802,98.63293721,GREEN
+Central,Lower Fitzroy,2019,0.89745481,9090.757,98.72168071,GREEN
+Central,Eton,2022,1.49734275,15166.944,98.72409036,GREEN
+Central,Nogoa Mackenzie,2022,10.61131655,106341.39,99.78538507,GREEN
+North,Julius,2022,0.43102655,3732.006,115.4946026,GREEN
+Central,Lower Fitzroy,2022,2.15591245,18564.803,116.1290238,GREEN
+South,St George,2020,7.51930806,63239.633,118.9018295,GREEN
+Burnett and Lower Mary,Bundaberg,2023,10.78435445,89002.754,121.1687725,GREEN
+Burnett and Lower Mary,Three Moon Creek,2022,0.48063019,3731.637,128.7987524,GREEN
+North,Mareeba Dimbulah,2020,16.19864967,116089.654,139.5356874,GREEN
+North,Proserpine River,2023,0.47301005,3308.833,142.9537393,GREEN
+North,Julius,2021,0.82195455,5605.05,146.6453555,GREEN
+Burnett and Lower Mary,Bundaberg,2022,9.9817873,65031.472,153.4916402,GREEN
+South,Macintyre Rock,2020,0.68182282,4419.967,154.2597083,GREEN
+South,Border Rivers,2019,0.13065871,839.595,155.6211149,GREEN
+Central,Callide Valley,2020,2.18390901,13306.728,164.1206621,GREEN
+North,Bowen Broken,2019,1.835523,10961.47,167.4522669,GREEN
+North,Bowen Broken,2020,3.66212984,21325.771,171.7232094,GREEN
+South,Border Rivers,2021,0.67753103,3922.475,172.7304903,GREEN
+Central,Nogoa Mackenzie,2019,11.03600866,61488.266,179.4815398,GREEN
+North,Bowen Broken,2021,3.38318902,17890.427,189.106108,GREEN
+South,Upper Condamine Supply,2019,0.15079051,757.365,199.0988625,GREEN
+North,Bowen Broken,2022,3.56868257,16331.439,218.516113,GREEN
+North,Pioneer River,2021,3.98611134,17984.581,221.6404897,GREEN
+South,Macintyre Rock,2023,3.04500009,13421.889,226.8682218,GREEN
+Burnett and Lower Mary,Barker Barambah,2022,0.59523058,2562.468,232.2880052,GREEN
+South,Border Rivers,2020,0.37254359,1577.596,236.1463835,GREEN
+Central,Callide Valley,2022,2.46454827,10312.344,238.9901142,GREEN
+Central,Lower Fitzroy,2023,2.75120381,11486.129,239.5240215,GREEN
+Central,Callide Valley,2023,2.98803587,12316.821,242.597978,GREEN
+North,Bowen Broken,2023,1.90610755,7202.552,264.6433584,GREEN
+North,Burdekin Haughton,2023,57.46874625,217043.193,264.7802286,GREEN
+Central,Dawson Valley,2023,12.29021973,43664.293,281.4707141,GREEN
+Burnett and Lower Mary,Boyne River & Tarong,2019,2.87755848,10053.187,286.2334581,GREEN
+South,Upper Condamine Supply,2023,6.067593782,19524.855,310.7625528,GREEN
+Central,Dawson Valley,2019,7.96094099,25151.098,316.5245903,GREEN
+Central,Dawson Valley,2021,16.12475061,46832.569,344.3063439,GREEN
+Burnett and Lower Mary,Boyne River & Tarong,2022,9.20373402,24674.508,373.0057767,GREEN
+North,Mareeba Dimbulah,2022,35.41201496,93805.13,377.5061658,GREEN
+Central,Dawson Valley,2020,16.03606871,35901.524,446.6681891,GREEN
+Central,Awoonga Callide Pipeline,2021,7.56992388,15986.669,473.5147691,GREEN
+Central,Awoonga Callide Pipeline,2020,9.71745463,19711.523,492.9834508,GREEN
+Central,Awoonga Callide Pipeline,2019,4.95255078,10014.257,494.5499981,GREEN
+Burnett and Lower Mary,Lower Mary River,2023,1.87332937,3512.136,533.3874799,GREEN
+Central,Dawson Valley,2022,16.05974199,25990.997,617.8963427,GREEN
+South,Cunnamulla,2023,0.48309487,778.44,620.5935846,GREEN
+South,Macintyre Rock,2021,2.52537993,3958.687,637.9337215,GREEN
+South,Macintyre Rock,2022,2.54703995,3804.51,669.4791051,GREEN
+Central,Callide Valley,2021,7.20571863,9764.37,737.9604245,YELLOW
+Central,Awoonga Callide Pipeline,2022,6.58762102,7900.313,833.8430414,YELLOW
+Burnett and Lower Mary,Boyne River & Tarong,2020,11.59298228,13238.24,875.7193011,YELLOW
+Burnett and Lower Mary,Barker Barambah,2021,3.86739458,4216.73,917.1548996,YELLOW
+Burnett and Lower Mary,Barker Barambah,2019,0.26605828,265.979,1000.298069,YELLOW
+Burnett and Lower Mary,Boyne River & Tarong,2023,13.92452247,13870.723,1003.878635,YELLOW
+South,Upper Condamine Supply,2021,3.93279795,3726.776,1055.281549,YELLOW
+Burnett and Lower Mary,Boyne River & Tarong,2021,9.50747273,8720.325,1090.265871,YELLOW
+South,Chinchilla Weir,2020,3.20483335,2696.907,1188.33662,YELLOW
 South,Chinchilla Weir,2023,3.35689909,2622.056,1280.254537,RED
 Burnett and Lower Mary,Lower Mary River,2022,2.24021372,1353.838,1654.713282,RED
 South,Chinchilla Weir,2021,3.25463017,1884.683,1726.884664,RED
